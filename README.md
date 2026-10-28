@@ -5,3 +5,6 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,php,laravel,mysql,java" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=saifnawaz&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="terminal.svg" width="100%" />
+</p>
